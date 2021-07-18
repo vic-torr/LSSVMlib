@@ -1,3 +1,10 @@
+Original made by  [Github](https://github.com/DannyVanpoucke)
+Based on [Github](https://github.com/RomuloDrumond/LSSVM/blob/master/lssvm/LSSVC.py)
+Changes added by me: 
+
+Add the least squares support vector machines multi label classifier.
+How to use is specified on the example on /examples/
+
 # LSSVMlib
 Library of python classes for performing Least-Squares Support Vector Machine (LS-SVM) 
 machine-learning modeling. The classes are build to conform to the scikit-learn API allowing for 
@@ -7,7 +14,7 @@ smooth integration with scikit-learn based projects.
 
 ## Status
 - [x] Regressor Class
-- [ ] Classification Class
+- [x] Classification Class
 
 ## Dependencies 
 (*i.e.* implemented with)
